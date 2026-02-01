@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm Ramesh
 
-<!--
-**ramesh-1911/ramesh-1911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps Engineer | AWS | CI/CD | Terraform
 
-Here are some ideas to get you started:
+I'm a DevOps enthusiast building production-grade cloud automation projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills
+- AWS (EC2, VPC, IAM, ALB)
+- Jenkins CI/CD
+- Terraform (IaC)
+- Docker
+- Ansible
+- Git & GitHub
+- Prometheus & Grafana
+
+### 📌 Featured Projects
+- AWS CI/CD Automation Platform
+- Terraform High Availability Web App
+- 3-Tier AWS Architecture
+
+### 📫 Connect With Me
+- LinkedIn: your link
+- GitHub: github.com/ramesh-1911
